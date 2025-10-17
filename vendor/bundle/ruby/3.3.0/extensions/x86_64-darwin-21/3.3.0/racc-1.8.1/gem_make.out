@@ -1,0 +1,19 @@
+current directory: /Users/musa/Test-project/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/musa/.asdf/installs/ruby/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/musa/Test-project/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251016-63487-x54q8n sitelibdir\=./.gem.20251016-63487-x54q8n clean
+
+current directory: /Users/musa/Test-project/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251016-63487-x54q8n sitelibdir\=./.gem.20251016-63487-x54q8n
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/musa/Test-project/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251016-63487-x54q8n sitelibdir\=./.gem.20251016-63487-x54q8n install
+/usr/local/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20251016-63487-x54q8n/racc
+
+current directory: /Users/musa/Test-project/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251016-63487-x54q8n sitelibdir\=./.gem.20251016-63487-x54q8n clean

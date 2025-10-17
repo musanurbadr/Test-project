@@ -1,0 +1,19 @@
+current directory: /Users/musa/Test-project/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/musa/.asdf/installs/ruby/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/musa/Test-project/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251016-63487-yl1vre sitelibdir\=./.gem.20251016-63487-yl1vre clean
+
+current directory: /Users/musa/Test-project/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251016-63487-yl1vre sitelibdir\=./.gem.20251016-63487-yl1vre
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/musa/Test-project/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251016-63487-yl1vre sitelibdir\=./.gem.20251016-63487-yl1vre install
+/usr/local/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20251016-63487-yl1vre/skiptrace/internal
+
+current directory: /Users/musa/Test-project/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251016-63487-yl1vre sitelibdir\=./.gem.20251016-63487-yl1vre clean
